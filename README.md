@@ -50,7 +50,7 @@ A high-performance, smart DC motor controller designed using the STM32F030 micro
 
 Watch a live demonstration of the controller operating a DC motor using a joystick input.
 
-[![Watch the video](rey_t.png)](demo_withjoystick.mp4)
+[![Watch the video](rey_t.jpeg)](demo_withjoystick.mp4)
 
 > Replace the link above with your actual YouTube or MP4 demo URL.
 
