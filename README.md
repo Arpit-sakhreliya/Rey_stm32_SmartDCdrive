@@ -42,7 +42,7 @@ A high-performance, smart DC motor controller designed using the STM32F030 micro
 
 | Assembled Front | Assembled Back |
 |-----------------|----------------|
-| ![Front](Rey_pfront.png) | ![Back](Rey_pback.png) |
+| ![Front](Rey_pfront.jpeg) | ![Back](Rey_pback.jpeg) |
 
 ---
 
